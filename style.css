@@ -71,6 +71,8 @@ li img{
     font-weight: 700;
     margin-top: 1rem;
     margin-left: 1.5rem;
+    background-color:hsl(0, 0%, 8%) !important;
+    color: hsl(0, 0%, 98%) !important;
 }
 .icon-footer{
     display: flex;
